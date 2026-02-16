@@ -6,7 +6,7 @@
 - 📊 Veri Analiz & Otomasyon Altyapıları  
 - 🤖 Akıllı Bildirim ve Sinyal Sistemleri  
 
-© LAVEN — Founded by Talha Çiftçi @Laven-SA-MP
+© LAVEN — Founded by Talha Çiftçi (@Laven-SA-MP)[github.com/laven-sa-mp
 <!--
 **dynamistwos/dynamistwos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
