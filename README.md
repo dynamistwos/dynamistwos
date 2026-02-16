@@ -8,4 +8,4 @@
 
 © LAVEN — Founded by Talha Çiftçi
 
-[Laven SA-MP](github.com/laven-sa-mp)
+[Laven SA-MP](https://github.com/laven-sa-mp)
